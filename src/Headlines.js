@@ -53,6 +53,7 @@ render() {
             </React.Fragment>
         );
     }
+}
 };
 
 export default Headlines;
